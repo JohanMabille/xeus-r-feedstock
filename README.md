@@ -11,7 +11,7 @@ Summary: R kernel for Jupyter based on xeus
 
 Development: https://github.com/jupyter-xeus/xeus-r
 
-Documentation: https://github.com/jupyter-xeus/xeus-r
+Documentation: https://xeus-r.readthedocs.io/
 
 Jupyter kernel for the R programming language
 
