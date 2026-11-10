@@ -1,6 +1,6 @@
 context:
   version: "0.11.2"
-  build_number: 1
+  build_number: 2
 
 package:
   name: xeus-r
@@ -29,7 +29,7 @@ requirements:
     - if: unix
       then:
         - make
-    - pkg-config
+    - pkgconf
     # Dependencies for hera
     - if: build_platform != target_platform
       then:
